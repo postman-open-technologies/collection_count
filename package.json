@@ -1,0 +1,22 @@
+{
+  "name": "Collection Count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.996.0",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "puppeteer": "^11.0.0",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2",
+    "yaml": "^1.10.2"
+  }
+}
